@@ -44,8 +44,10 @@
 
 ### 🗂️ 대표 프로젝트
 
-- [뚜두뚜두: SQLite 기반 안드로이드 메모 앱](https://github.com/your-repo-here)
-- [Python 교육용 영상 콘텐츠](https://www.youtube.com/@yourchannel)
+- [뚜두뚜두: SQLite 기반 안드로이드 메모 앱]((https://github.com/chldnjsdn200/Application))
+- [Python 교육용 영상 콘텐츠]((https://github.com/chldnjsdn200/Educational_Video)
+- [데이터 분석]((https://github.com/chldnjsdn200/DataAnalysis)
+- [게임]((https://github.com/chldnjsdn200/Game)
 
 > 포트폴리오는 계속 업데이트 중입니다.  
 
@@ -56,8 +58,3 @@
 - 📧 이메일: chldnjsdn97@gmail.com  
 - 📝 블로그: [https://wune.tistory.com/](https://wune.tistory.com/)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chldnjsdn200&show_icons=true&theme=default" />
-</p>
